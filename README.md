@@ -1,5 +1,5 @@
-Projects
-========
+Public Projects
+===============
 
 List is noteworthy current projects:
 
