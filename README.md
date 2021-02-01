@@ -7,6 +7,7 @@ List is noteworthy current projects:
 *    C++ library to interface with ElGato [Keylight](https://github.com/drepper/keylightpp)
 *    C++ library to interface with ElGato [Stremdeck](https://github.com/drepper/streamdeckpp)
 *    Daemon to control ElGato Streamdeck [streamdeckd](https://github.com/drepper/streameckd)
+*    OBS Virtual Greenscreen with RealSense cameras [obs-realsense-greenscreen](https://github.com/drepper/obs-realsense-greenscreen)
 *    Python module to create color maps [colormaps](https://github.com/drepper/colormaps)
 *    Routines to compute space filling curves [spacefilling](https://github.com/drepper/spacefilling)
 *    Utility to display x86 CPU features [cpuid](https://github.com/drepper/cpuid)
